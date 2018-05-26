@@ -1,0 +1,1 @@
+To Run the code type python fil.py in ubuntu command prompt or just run it by double clicking it in windows.
